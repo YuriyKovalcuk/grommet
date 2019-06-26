@@ -8,6 +8,8 @@ A carousel that cycles through children. Child components
 
 ```javascript
 import { Carousel } from 'grommet';
+
+
 <Carousel />
 ```
 
